@@ -2,13 +2,11 @@
     
 <h1 align="left">Hi 👋🏽, I'm Antonio Caro</h1>
 
-![Profile views](https://gpvc.arturio.dev/dn01986)
-
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 I’m currently learning: <b>cross-platform application development, trying to get my first experience as a programmer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Crossfit 🏃 </b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>caroc.antonio@gmail.com</b></p>
